@@ -1,0 +1,5 @@
+D:\tvdat20004\net_programing\CV\CV\bin\Release\net8.0-windows\publish\CV.exe
+D:\tvdat20004\net_programing\CV\CV\bin\Release\net8.0-windows\publish\CV.dll
+D:\tvdat20004\net_programing\CV\CV\bin\Release\net8.0-windows\publish\CV.deps.json
+D:\tvdat20004\net_programing\CV\CV\bin\Release\net8.0-windows\publish\CV.runtimeconfig.json
+D:\tvdat20004\net_programing\CV\CV\bin\Release\net8.0-windows\publish\CV.pdb

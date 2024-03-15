@@ -1,0 +1,2 @@
+D:\tvdat20004\net_programing\CV\CV\bin\Release\net8.0-windows\publish\win-x64\CV.pdb
+D:\tvdat20004\net_programing\CV\CV\bin\Release\net8.0-windows\publish\win-x64\CV.exe

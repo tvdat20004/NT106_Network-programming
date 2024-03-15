@@ -1,0 +1,17 @@
+D:\tvdat20004\net_programing\CV\CV\bin\Debug\net8.0-windows\CV.exe
+D:\tvdat20004\net_programing\CV\CV\bin\Debug\net8.0-windows\CV.deps.json
+D:\tvdat20004\net_programing\CV\CV\bin\Debug\net8.0-windows\CV.runtimeconfig.json
+D:\tvdat20004\net_programing\CV\CV\bin\Debug\net8.0-windows\CV.dll
+D:\tvdat20004\net_programing\CV\CV\bin\Debug\net8.0-windows\CV.pdb
+D:\tvdat20004\net_programing\CV\CV\obj\Debug\net8.0-windows\CV.Form1.resources
+D:\tvdat20004\net_programing\CV\CV\obj\Debug\net8.0-windows\CV.Properties.Resources.resources
+D:\tvdat20004\net_programing\CV\CV\obj\Debug\net8.0-windows\CV.csproj.GenerateResource.cache
+D:\tvdat20004\net_programing\CV\CV\obj\Debug\net8.0-windows\CV.GeneratedMSBuildEditorConfig.editorconfig
+D:\tvdat20004\net_programing\CV\CV\obj\Debug\net8.0-windows\CV.AssemblyInfoInputs.cache
+D:\tvdat20004\net_programing\CV\CV\obj\Debug\net8.0-windows\CV.AssemblyInfo.cs
+D:\tvdat20004\net_programing\CV\CV\obj\Debug\net8.0-windows\CV.csproj.CoreCompileInputs.cache
+D:\tvdat20004\net_programing\CV\CV\obj\Debug\net8.0-windows\CV.dll
+D:\tvdat20004\net_programing\CV\CV\obj\Debug\net8.0-windows\refint\CV.dll
+D:\tvdat20004\net_programing\CV\CV\obj\Debug\net8.0-windows\CV.pdb
+D:\tvdat20004\net_programing\CV\CV\obj\Debug\net8.0-windows\CV.genruntimeconfig.cache
+D:\tvdat20004\net_programing\CV\CV\obj\Debug\net8.0-windows\ref\CV.dll
