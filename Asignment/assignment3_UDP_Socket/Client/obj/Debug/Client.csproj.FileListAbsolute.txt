@@ -1,0 +1,10 @@
+D:\tvdat20004\net_programing\UDP_Socket\Client\bin\Debug\Client.exe.config
+D:\tvdat20004\net_programing\UDP_Socket\Client\bin\Debug\Client.exe
+D:\tvdat20004\net_programing\UDP_Socket\Client\bin\Debug\Client.pdb
+D:\tvdat20004\net_programing\UDP_Socket\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\tvdat20004\net_programing\UDP_Socket\Client\obj\Debug\Client.client.resources
+D:\tvdat20004\net_programing\UDP_Socket\Client\obj\Debug\Client.Properties.Resources.resources
+D:\tvdat20004\net_programing\UDP_Socket\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\tvdat20004\net_programing\UDP_Socket\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\tvdat20004\net_programing\UDP_Socket\Client\obj\Debug\Client.exe
+D:\tvdat20004\net_programing\UDP_Socket\Client\obj\Debug\Client.pdb
