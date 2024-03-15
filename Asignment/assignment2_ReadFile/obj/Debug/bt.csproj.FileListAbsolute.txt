@@ -1,0 +1,10 @@
+D:\tvdat20004\net_programing\bt\bin\Debug\bt.exe.config
+D:\tvdat20004\net_programing\bt\bin\Debug\bt.exe
+D:\tvdat20004\net_programing\bt\bin\Debug\bt.pdb
+D:\tvdat20004\net_programing\bt\obj\Debug\bt.csproj.AssemblyReference.cache
+D:\tvdat20004\net_programing\bt\obj\Debug\bt.Form1.resources
+D:\tvdat20004\net_programing\bt\obj\Debug\bt.Properties.Resources.resources
+D:\tvdat20004\net_programing\bt\obj\Debug\bt.csproj.GenerateResource.cache
+D:\tvdat20004\net_programing\bt\obj\Debug\bt.csproj.CoreCompileInputs.cache
+D:\tvdat20004\net_programing\bt\obj\Debug\bt.exe
+D:\tvdat20004\net_programing\bt\obj\Debug\bt.pdb
