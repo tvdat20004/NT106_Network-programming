@@ -1,0 +1,15 @@
+D:\tvdat20004\net_programing\lab1\bin\Debug\lab1.exe.config
+D:\tvdat20004\net_programing\lab1\bin\Debug\lab1.exe
+D:\tvdat20004\net_programing\lab1\bin\Debug\lab1.pdb
+D:\tvdat20004\net_programing\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+D:\tvdat20004\net_programing\lab1\obj\Debug\lab1.Properties.Resources.resources
+D:\tvdat20004\net_programing\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+D:\tvdat20004\net_programing\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\tvdat20004\net_programing\lab1\obj\Debug\lab1.exe
+D:\tvdat20004\net_programing\lab1\obj\Debug\lab1.pdb
+D:\tvdat20004\net_programing\lab1\obj\Debug\lab1.Home.resources
+D:\tvdat20004\net_programing\lab1\obj\Debug\lab1.Bai1.resources
+D:\tvdat20004\net_programing\lab1\obj\Debug\lab1.Bai2.resources
+D:\tvdat20004\net_programing\lab1\obj\Debug\lab1.Bai3.resources
+D:\tvdat20004\net_programing\lab1\obj\Debug\lab1.bai4.resources
+D:\tvdat20004\net_programing\lab1\obj\Debug\lab1.bai5.resources
