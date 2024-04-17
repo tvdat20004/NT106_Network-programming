@@ -1,0 +1,10 @@
+E:\tvdat20004\net_programing\lab3\lab3_1\client\bin\Debug\client.exe.config
+E:\tvdat20004\net_programing\lab3\lab3_1\client\bin\Debug\client.exe
+E:\tvdat20004\net_programing\lab3\lab3_1\client\bin\Debug\client.pdb
+E:\tvdat20004\net_programing\lab3\lab3_1\client\obj\Debug\client.csproj.AssemblyReference.cache
+E:\tvdat20004\net_programing\lab3\lab3_1\client\obj\Debug\client.clientForm.resources
+E:\tvdat20004\net_programing\lab3\lab3_1\client\obj\Debug\client.Properties.Resources.resources
+E:\tvdat20004\net_programing\lab3\lab3_1\client\obj\Debug\client.csproj.GenerateResource.cache
+E:\tvdat20004\net_programing\lab3\lab3_1\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+E:\tvdat20004\net_programing\lab3\lab3_1\client\obj\Debug\client.exe
+E:\tvdat20004\net_programing\lab3\lab3_1\client\obj\Debug\client.pdb
