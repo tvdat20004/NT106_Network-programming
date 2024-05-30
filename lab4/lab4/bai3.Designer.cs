@@ -58,7 +58,7 @@
             this.dataGridView1.ReadOnly = true;
             this.dataGridView1.RowHeadersWidth = 62;
             this.dataGridView1.RowTemplate.Height = 28;
-            this.dataGridView1.Size = new System.Drawing.Size(1009, 560);
+            this.dataGridView1.Size = new System.Drawing.Size(1113, 536);
             this.dataGridView1.TabIndex = 4;
             // 
             // loadButton
@@ -86,7 +86,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1082, 778);
+            this.ClientSize = new System.Drawing.Size(1200, 766);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.clearButton);
             this.Controls.Add(this.dataGridView1);
